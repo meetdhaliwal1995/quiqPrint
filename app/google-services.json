@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22099929911",
+    "project_id": "quiqprint-22",
+    "storage_bucket": "quiqprint-22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22099929911:android:732112030bc5721b92c8b2",
+        "android_client_info": {
+          "package_name": "com.quiqprint.hub_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22099929911-a2m14rdrt9a4sse3tuaruj83vlq6plp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMM8TCBWQKiOBgomMFmDeq86VnWYqAmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22099929911-a2m14rdrt9a4sse3tuaruj83vlq6plp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
